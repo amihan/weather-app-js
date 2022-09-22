@@ -1,0 +1,89 @@
+<!-- <div class="content">
+        <div class="info content__info">
+            <div class="block info__content">
+                <p class="block__feeling">
+                    Rainy morning
+                </p>
+                <p class="block__time">
+                    Tuesday 7:28 AM
+                </p>
+            </div>
+            <img class="info__image" src="./img/icons/cloud.png" alt="">
+        </div>
+        <h1 class="content__city">
+            Omsk
+        </h1>
+        <div class="description content__description">
+            
+        </div>
+    </div> -->
+
+
+    <!-- <div class="list">
+        <div class="list__item">
+            <img class="list__image" src="./img/icons/cloud.png" alt="">
+            <div class="list__content">
+                <p class="list__title">
+                    0%
+                </p>
+                <p class="list__subtitle">
+                    HUMIDITY
+                </p>
+            </div>
+        </div>
+        <div class="list__item">
+            <img class="list__image" src="./img/icons/cloud.png" alt="">
+            <div class="list__content">
+                <p class="list__title">
+                    0%
+                </p>
+                <p class="list__subtitle">
+                    HUMIDITY
+                </p>
+            </div>
+        </div>
+        <div class="list__item">
+            <img class="list__image" src="./img/icons/cloud.png" alt="">
+            <div class="list__content">
+                <p class="list__title">
+                    0%
+                </p>
+                <p class="list__subtitle">
+                    HUMIDITY
+                </p>
+            </div>
+        </div>
+        <div class="list__item">
+            <img class="list__image" src="./img/icons/cloud.png" alt="">
+            <div class="list__content">
+                <p class="list__title">
+                    0%
+                </p>
+                <p class="list__subtitle">
+                    HUMIDITY
+                </p>
+            </div>
+        </div>
+        <div class="list__item">
+            <img class="list__image" src="./img/icons/cloud.png" alt="">
+            <div class="list__content">
+                <p class="list__title">
+                    0%
+                </p>
+                <p class="list__subtitle">
+                    HUMIDITY
+                </p>
+            </div>
+        </div>
+        <div class="list__item">
+            <img class="list__image" src="./img/icons/cloud.png" alt="">
+            <div class="list__content">
+                <p class="list__title">
+                    0%
+                </p>
+                <p class="list__subtitle">
+                    HUMIDITY
+                </p>
+            </div>
+        </div>
+    </div> -->
